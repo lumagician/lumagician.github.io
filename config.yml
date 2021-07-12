@@ -10,4 +10,4 @@ params:
 
   socialIcons: # optional
     - name: "GitHub"
-        url: "github.com/lumagician"
+    url: "github.com/lumagician"
