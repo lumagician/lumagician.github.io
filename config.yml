@@ -1,5 +1,13 @@
 baseURL: https://lumagician.github.io
 languageCode: en-us
 title: lumagician
-
 theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: Hello there...
+    Content: oh hello
+
+  socialIcons: # optional
+    - name: "GitHub"
+        url: "github.com/lumagician"
